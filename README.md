@@ -7,6 +7,6 @@ Dfl train file rename for timelapse is a very simple Python script for remove th
 - os (base python package)
 
 #How to execute:
-1. `git clone https://github.com/psidev/dtfrft``
+1. `git clone https://github.com/psidev/dtfrft`
 2. `cd dtfrft`
 3. `python3 filerename.py`
